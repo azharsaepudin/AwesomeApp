@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AwesomeApp</string>
+    <string name="messageError">Opps!! Tidak bisa terhubung ke server</string>
+    <string name="image_stock_photo">image stock photo</string>
+    <string name="foto_of_photographer">foto of photographer</string>
+    <string name="btn_try">Try</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+</resources>
